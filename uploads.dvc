@@ -1,0 +1,6 @@
+outs:
+- md5: 18751081d3fe0c2278697a2384e18f77.dir
+  size: 228769
+  nfiles: 8
+  hash: md5
+  path: uploads
